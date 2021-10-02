@@ -1,4 +1,4 @@
-# Image-Classification-by-Fedarated-Learning
+# Image-Classification-by-Federated-Learning
 <img src="https://federated.withgoogle.com/assets/comic/panel034_2x.png" align="right" height="250px" width="250px">
 Tutorial project aimed for the first towards the implementation of Fedarated Learning.
 
@@ -14,7 +14,7 @@ ________________________________________________________________________________
     - Provides assurance of privacy in terms of interests and activity
     - Model hosted on cloud only uplaods the results back to the server
     - Thus, full-flegded security and assurance of none sort of fetching data/leakage.
-    - More Details on Fedarated Learning : **https://federated.withgoogle.com/**
+    - More Details on Federated Learning : **https://federated.withgoogle.com/**
 
 - Uses MNIST dataset of different writing styles considering them as data of various client's.
 
@@ -41,7 +41,7 @@ ________________________________________________________________________________
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/mage-Classification-by-Fedarated-Learning.git
+git clone https://github.com/your-username/mage-Classification-by-Federated-Learning.git
 ```
 
 * Create a branch
@@ -68,8 +68,8 @@ ________________________________________________________________________________
 
 ## Contributors
 
-<a href="https://github.com/paxF3E/Image-Classification-by-Fedarated-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo= paxF3E/Image-Classification-by-Fedarated-Learning" />
+<a href="https://github.com/paxF3E/Image-Classification-by-Federated-Learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo= paxF3E/Image-Classification-by-Federated-Learning" />
 </a>
 
 _________________________________________________________________________________________________________________________________________________________________
