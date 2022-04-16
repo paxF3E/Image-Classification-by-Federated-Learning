@@ -1,6 +1,6 @@
 # Image-Classification-by-Federated-Learning
 <img src="https://federated.withgoogle.com/assets/comic/panel034_2x.png" align="right" height="250px" width="250px">
-Tutorial project aimed for the first towards the implementation of Fedarated Learning.
+Learning project aimed for the first step towards the implementation of Fedarated Learning.
 
 _________________________________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________
