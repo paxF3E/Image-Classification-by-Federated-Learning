@@ -1,6 +1,6 @@
 # Image-Classification-by-Federated-Learning
 <img src="https://federated.withgoogle.com/assets/comic/panel034_2x.png" align="right" height="250px" width="250px">
-Learning project aimed for the first step towards the implementation of Fedarated Learning.
+Project aimed to provide insights of the implementation of Fedarated Learning.
 
 _________________________________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________
@@ -69,7 +69,7 @@ ________________________________________________________________________________
 ## Contributors
 
 <a href="https://github.com/paxF3E/Image-Classification-by-Federated-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo= paxF3E/Image-Classification-by-Federated-Learning" />
+  <img src="https://contrib.rocks/image?repo=paxF3E/Image-Classification-by-Federated-Learning" />
 </a>
 
 _________________________________________________________________________________________________________________________________________________________________
